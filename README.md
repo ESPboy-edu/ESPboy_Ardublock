@@ -1,6 +1,6 @@
 # ESPboy_Ardublock
 
-[Ardublock v3 - Block coding program for Arduino and ESP](www.ardublock.ru/3)
+[Ardublock v3 - Block coding program for Arduino and ESP](http://ardublock.ru/3/)
 
 by Vitaly Petrov
 
